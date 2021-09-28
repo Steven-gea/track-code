@@ -1,4 +1,4 @@
-# first-vue-app
+# vue-track
 
 ## Project setup
 ```
